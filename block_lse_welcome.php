@@ -38,10 +38,10 @@ class block_lse_welcome extends block_base {
 </tr>
 <tr>
 <td style="text-align: left;">
-<p><strong><a title="Training and development" href="http://www2.lse.ac.uk/intranet/LSEServices/trainingAndDevelopment/home.aspx">Training &amp; development</a><br /></strong><a title="Teaching and Learning Centre" href="http://www2.lse.ac.uk/intranet/LSEServices/TLC/Home.aspx"><strong>Study support from TLC</strong></a></p>
+<p><strong><a title="Training and development" href="http://www2.lse.ac.uk/intranet/LSEServices/trainingAndDevelopment/home.aspx" target="_blank">Training &amp; development</a><br /></strong><a title="Teaching and Learning Centre" href="http://www2.lse.ac.uk/intranet/LSEServices/TLC/Home.aspx" target="_blank"><strong>Study support from TLC</strong></a></p>
 </td>
 <td style="text-align: right;">
-<p><a href="https://moodle.lse.ac.uk/mod/page/view.php?id=279912"><strong>Introduction to Moodle: Screencasts</strong> <img style="vertical-align: middle;" alt="playback icon" src="$blockpath/pix/Actions-media-playback-start-icon.png" height="16" width="16" /> </a><br /> </p>
+<p><a href="$CFG->wwwroot/mod/page/view.php?id=279912"><strong>Introduction to Moodle: Screencasts</strong> <img style="vertical-align: middle;" alt="playback icon" src="$blockpath/pix/Actions-media-playback-start-icon.png" height="16" width="16" /> </a><br /> </p>
 </td>
 </tr>
 </tbody>
