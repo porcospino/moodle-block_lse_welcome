@@ -1,4 +1,1 @@
-moodle-ejournal-link-fixer
-==========================
-
-The ejournal link fixer block used in LSE Moodle
+A block to appear by default on My Moodle pages, to provide induction and help resources
