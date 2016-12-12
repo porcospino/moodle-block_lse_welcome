@@ -28,12 +28,12 @@ class block_lse_welcome extends block_base {
 <tbody>
 <tr>
 <td style="width: 50%; text-align: left;">
-<p><strong><a href="http://clt.lse.ac.uk/moodle/moodle-faqs-students.php" target="_blank">Help for students</a><br /></strong></p>
-<p><a href="http://clt.lse.ac.uk/moodle/moodle-faqs-students.php" target="_blank"><img alt="Lecture in NAB" src="$blockpath/pix/student_faq.jpg" height="110" width="250" /></a></p>
+<p><strong><a href="http://lti.lse.ac.uk/moodle-faqs-for-students/" target="_blank">Help for students</a><br /></strong></p>
+<p><a href="http://lti.lse.ac.uk/moodle-faqs-for-students/" target="_blank"><img alt="Lecture in NAB" src="$blockpath/pix/student_faq.jpg" height="110" width="250" /></a></p>
 </td>
 <td style="width: 50%; text-align: right;">
-<p><strong><strong><a href="http://clt.lse.ac.uk/moodle/moodle-faqs-staff.php" target="_blank">Help for staff</a><br /></strong></strong></p>
-<p><a href="http://clt.lse.ac.uk/moodle/moodle-faqs-staff.php" target="_blank"><strong><img alt="Hands on keyboard" src="$blockpath/pix/staff_faq.jpg" height="110" width="250" /></strong></a></p>
+<p><strong><strong><a href="http://lti.lse.ac.uk/moodle-faqs-for-staff/" target="_blank">Help for staff</a><br /></strong></strong></p>
+<p><a href="http://lti.lse.ac.uk/moodle-faqs-for-staff/" target="_blank"><strong><img alt="Hands on keyboard" src="$blockpath/pix/staff_faq.jpg" height="110" width="250" /></strong></a></p>
 </td>
 </tr>
 <tr>
