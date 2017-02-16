@@ -27,4 +27,4 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2012102300;        // The current plugin version (Date: YYYYMMDDXX)
 $plugin->requires  = 2010112400;        // Requires this Moodle version
-//$plugin->component = 'block_gate_adder';  // Full name of the plugin (used for diagnostics)
+$plugin->component = 'block_lse_welcome';  // Full name of the plugin (used for diagnostics)
